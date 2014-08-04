@@ -24,7 +24,7 @@ The following books are required:
 
 
 
-## Schedule
+# Schedule
 
 1. **August 20--22: Diplomacy and the International System**
 
