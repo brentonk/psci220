@@ -1,4 +1,5 @@
 _site/
 .DS_Store
 *.bbl
+/dont_panic.jpg
 /syllabus-body.tex
