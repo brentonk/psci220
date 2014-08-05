@@ -1,6 +1,7 @@
 ---
 category: syllabus
 title: Syllabus
+layout: syllabus
 ---
 
 # Academic Integrity
