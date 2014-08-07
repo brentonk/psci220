@@ -36,15 +36,15 @@ details.
 
 Your grade in PSCI 220 consists of the following components:
 
-* **Short Papers (20%).** You will write two short papers (4--6 pages
+* **Short Papers (20%).** You will write two short papers (5--7 pages
     each).[^page-lengths] You will select the topic of each paper from a set
     of prompts that will be handed out a week before the paper is due.  The
-    first of these papers will be due October 8, and the second will be due
+    first of these papers will be due October 1, and the second will be due
     November 19.
 
 *   **Midterm Exam (20%).** An in-class midterm consisting of short essay
-    questions will be held on October 20.  *If you cannot be present in class
-    on October 20, please let me know as soon as possible so that we can make
+    questions will be held on October 6.  *If you cannot be present in class
+    on October 6, please let me know as soon as possible so that we can make
     alternative arrangements.*
 
 *   **Final Paper (50%).** The bulk of your grade is based on a research paper.
@@ -214,6 +214,8 @@ website, <http://bkenkel.com/psci220/syllabus.html>.
 
 ### September 22--26: Spiral Models versus Deterrence
 
+*First short paper to be assigned Wednesday, September 24.*
+
 * Robert Jervis, "Deterrence, the Spiral Model, and Intentions of the
   Adversary," chap. 3 in *Perception and Misperception in International
   Politics* (Princeton University Press, 1976).
@@ -234,7 +236,7 @@ website, <http://bkenkel.com/psci220/syllabus.html>.
 
 ### September 29--October 3: Testing Rational Deterrence Theory
 
-*First short paper to be assigned Wednesday, October 1.*
+*First short paper due Wednesday, October 1.*
 
 * Christopher H. Achen and Duncan Snidal,
   ["Rational Deterrence Theory and Comparative Case Studies,"](http://www.jstor.org/stable/2010405)
@@ -258,9 +260,12 @@ website, <http://bkenkel.com/psci220/syllabus.html>.
       *International Interactions* 28, no. 1 (2002): 5--29.
 
 
-### October 6--10: Constructing Alliances
+### October 6: Midterm Exam
 
-*First short paper due Wednesday, October 8.  No class Friday, October 10.*
+
+### October 8--10: Constructing Alliances
+
+*No class Friday, October 10.*
 
 * Stephen M. Walt, "Explaining Alliance Formation," chap. 2 in *The Origins of
   Alliances* (Cornell University Press, 1987).
@@ -269,14 +274,13 @@ website, <http://bkenkel.com/psci220/syllabus.html>.
   ["Alliances: Why Write Them Down?"](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.3.1.63)
   *Annual Review of Political Science* 3 (2000): 63--83.
 
-* Brian Lai and Dan Reiter,
-  ["Democracy, Political Similarity, and International Alliances, 1816--1992,"](http://www.jstor.org/stable/174663)
-  *Journal of Conflict Resolution* 44, no. 2 (2000): 203--227.
-
 * *Recommended:*
     * Mancur Olson Jr. and Richard Zeckhauser,
       ["An Economic Theory of Alliances,"](http://www.jstor.org/stable/1927082)
       *Review of Economics and Statistics* 48, no. 3 (1966): 266--279.
+    * Brian Lai and Dan Reiter,
+      ["Democracy, Political Similarity, and International Alliances, 1816--1992,"](http://www.jstor.org/stable/174663)
+      *Journal of Conflict Resolution* 44, no. 2 (2000): 203--227.
 
 
 ### October 13--15: Keeping Alliance Commitments
@@ -296,10 +300,7 @@ website, <http://bkenkel.com/psci220/syllabus.html>.
   *American Journal of Political Science* 48, no. 4 (2004): 775--795.
 
 
-### October 20: Midterm Exam
-
-
-### October 22--24: Domestic Politics and Diplomacy
+### October 20--24: Domestic Politics and Diplomacy
 
 * Robert D. Putnam,
   ["Diplomacy and Domestic Politics: The Logic of Two-Level Games,"](http://www.jstor.org/stable/2706785)
