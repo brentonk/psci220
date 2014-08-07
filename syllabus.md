@@ -188,7 +188,7 @@ website, <http://bkenkel.com/psci220/syllabus.html>.
 
 ### September 1--5: Diplomacy through History
 
-* Anderson, *The Rise of Modern Diplomacy*, entire book.
+* M.S. Anderson, *The Rise of Modern Diplomacy*, entire book.
 
 * *Recommended:*
     * Garrett Mattingly, *Renaissance Diplomacy* (Cosimo Classics, 2009).
@@ -196,7 +196,7 @@ website, <http://bkenkel.com/psci220/syllabus.html>.
 
 ### September 8--12: The Practice of Negotiations
 
-* Berridge, *Diplomacy: Theory and Practice*, chapters 2--6.
+* G.R. Berridge, *Diplomacy: Theory and Practice*, chapters 2--6.
 
 
 ### September 15--19: Deterrence
