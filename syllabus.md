@@ -36,10 +36,11 @@ details.
 
 Your grade in PSCI 220 consists of the following components:
 
-*   **Short Papers (20%).** You will write two short papers (4--6 pages each).
-    You will select the topic of each paper from a set of prompts that will be
-    handed out a week before the paper is due.  The first of these papers will
-    be due October 8, and the second will be due November 19.
+* **Short Papers (20%).** You will write two short papers (4--6 pages
+    each).[^page-lengths] You will select the topic of each paper from a set
+    of prompts that will be handed out a week before the paper is due.  The
+    first of these papers will be due October 8, and the second will be due
+    November 19.
 
 *   **Midterm Exam (20%).** An in-class midterm consisting of short essay
     questions will be held on October 20.  *If you cannot be present in class
@@ -80,6 +81,9 @@ Your grade in PSCI 220 consists of the following components:
   class, but also to have completed the readings and prepared to discuss them.
   Your attendance, preparation, and engagement in class discussion will all be
   reflected in your participation grade.
+
+[^page-lengths]: Page lengths quoted assume a double-spaced document with
+    12-point text and 1-inch margins.
 
 
 # Academic Integrity
