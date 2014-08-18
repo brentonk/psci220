@@ -158,7 +158,9 @@ inform you at least a week in advance of any changes to the required
 readings.
 
 Links to all journal articles are available in the syllabus on the course
-website, <http://bkenkel.com/psci220/syllabus.html>.
+website, <http://bkenkel.com/psci220/syllabus.html>.  Scans of book chapters
+will be made available on the course's Blackboard page, which you can access
+via [OAK](http://oak.vanderbilt.edu).
 
 
 ### August 20--22: Diplomacy and the International System

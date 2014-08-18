@@ -32,3 +32,6 @@ defaults:
     values:
       category: assignment
       layout: assignment
+
+
+exclude: readings
