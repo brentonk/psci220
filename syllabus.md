@@ -13,7 +13,7 @@ address questions like: Does a state become more or less secure when it issues
 threats to its adversaries?  What types of states are most likely to form
 alliances, or honor their alliance commitments?  When can third-party
 mediators effectively keep international disputes from escalating into war?
-Is "diplomatic" contact between states and terrorists groups even possible,
+Is "diplomatic" contact between states and terrorist groups even possible,
 let alone advisable for the states in question?
 
 ![Photo from [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Don%27t_Panic_Badge.jpg).](dont_panic_2.jpg)
