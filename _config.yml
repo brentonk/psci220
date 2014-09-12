@@ -34,4 +34,6 @@ defaults:
       layout: assignment
 
 
-exclude: readings
+exclude:
+  - 'readings'
+  - 'outlines'
