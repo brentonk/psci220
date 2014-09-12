@@ -115,7 +115,7 @@ answers with mechanisms:
 
 It is a cliché---but true---that people are complicated.  For any interesting
 research question about social phenomena, there are many plausible answers.
-For an argument in favor of a particular answer to be convqincing, it should
+For an argument in favor of a particular answer to be convincing, it should
 contend with these potential alternatives.
 
 We have seen that a central answer has two main components.  Accordingly,
