@@ -183,9 +183,10 @@ via [OAK](http://oak.vanderbilt.edu).
 * Christer Jonsson and Martin Hall, "The Study of Diplomacy," chap. 1 in
   *Essence of Diplomacy* (Palgrave Macmillan, 2005).
 
-* Robert Powell,
-  ["Bargaining Theory and International Conflict,"](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.5.092601.141138)
-  *Annual Review of Political Science* 5 (2002): 1--30.
+* *Recommended:*
+    * Robert Powell,
+      ["Bargaining Theory and International Conflict,"](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.5.092601.141138)
+      *Annual Review of Political Science* 5 (2002): 1--30.
 
 
 ### September 1--5: Diplomacy through History
