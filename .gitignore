@@ -1,6 +1,10 @@
 _site/
 .DS_Store
+
 *.bbl
+
+_notes/*.tex
+
 /dont_panic.jpg
 /syllabus-body.tex
 /readings/
