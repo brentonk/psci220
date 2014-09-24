@@ -1,6 +1,7 @@
 ---
 title: First Short Paper
 date: September 24, 2014
+pdf: 01-first-short.pdf
 ---
 
 # Instructions
