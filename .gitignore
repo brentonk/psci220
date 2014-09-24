@@ -4,6 +4,7 @@ _site/
 *.bbl
 
 _notes/*.tex
+_assignments/*.tex
 
 /dont_panic.jpg
 /syllabus-body.tex
