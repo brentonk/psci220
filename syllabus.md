@@ -336,10 +336,11 @@ via [OAK](http://oak.vanderbilt.edu).
   ["Should Peacemakers Take Sides? Major Power Mediation, Coercion, and Bias,"](http://www.jstor.org/stable/27798500)
   *American Political Science Review* 103, no. 2 (2009): 248--263.
 
+* Kyle C. Beardsley,
+  ["Pain, Pressure, and Political Cover: Explaining Mediation Incidence,"](http://www.jstor.org/stable/20752196)
+  *Journal of Peace Research* 47, no. 4 (2010): 395--406.
+
 * *Recommended:*
-    * Kyle C. Beardsley,
-      ["Pain, Pressure, and Political Cover: Explaining Mediation Incidence,"](http://www.jstor.org/stable/20752196)
-      *Journal of Peace Research* 47, no. 4 (2010): 395--406.
     * Shawn Ling Ramirez,
       ["Diplomatic Flexibility in the Shadow of an Audience: The Double-Edged Sword of Private Mediation"](http://slramirez.github.io/lionsden/med20130630.pdf)
       (working paper, Emory University, 2013).
