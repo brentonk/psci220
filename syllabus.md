@@ -241,6 +241,9 @@ via [OAK](http://oak.vanderbilt.edu).
 
 *First short paper due Wednesday, October 1.*
 
+<!-- Next time, maybe first do a week where we actually look at some of the -->
+<!-- case studies at issue in the Achen/Snidal article? -->
+
 * Christopher H. Achen and Duncan Snidal,
   ["Rational Deterrence Theory and Comparative Case Studies,"](http://www.jstor.org/stable/2010405)
   *World Politics* 41, no. 2 (1989): 143--169.
@@ -336,11 +339,13 @@ via [OAK](http://oak.vanderbilt.edu).
   ["Should Peacemakers Take Sides? Major Power Mediation, Coercion, and Bias,"](http://www.jstor.org/stable/27798500)
   *American Political Science Review* 103, no. 2 (2009): 248--263.
 
-* Kyle C. Beardsley,
-  ["Pain, Pressure, and Political Cover: Explaining Mediation Incidence,"](http://www.jstor.org/stable/20752196)
-  *Journal of Peace Research* 47, no. 4 (2010): 395--406.
-
 * *Recommended:*
+    * Joseph Farrell and Matthew Rabin,
+      ["Cheap Talk,"](http://www.jstor.org/stable/2138522)
+      *Journal of Economic Perspectives* 10, no. 3 (1996): 103--118.
+    * Kyle C. Beardsley,
+      ["Pain, Pressure, and Political Cover: Explaining Mediation Incidence,"](http://www.jstor.org/stable/20752196)
+      *Journal of Peace Research* 47, no. 4 (2010): 395--406.
     * Shawn Ling Ramirez,
       ["Diplomatic Flexibility in the Shadow of an Audience: The Double-Edged Sword of Private Mediation"](http://slramirez.github.io/lionsden/med20130630.pdf)
       (working paper, Emory University, 2013).
