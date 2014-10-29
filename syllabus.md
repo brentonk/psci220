@@ -335,14 +335,17 @@ via [OAK](http://oak.vanderbilt.edu).
   ["Which Side Are You On? Bias, Credibility, and Mediation,"](http://www.jstor.org/stable/3186121)
   *American Journal of Political Science* 47, no. 4 (2003): 597--611.
 
-* Katja Favretto,
-  ["Should Peacemakers Take Sides? Major Power Mediation, Coercion, and Bias,"](http://www.jstor.org/stable/27798500)
-  *American Political Science Review* 103, no. 2 (2009): 248--263.
+* Burcu Savun,
+  ["Information, Bias, and Mediation Success,"](http://www.jstor.org/stable/29734223)
+  *International Studies Quarterly* 52, no. 1 (2008): 25--47.
 
 * *Recommended:*
     * Joseph Farrell and Matthew Rabin,
       ["Cheap Talk,"](http://www.jstor.org/stable/2138522)
       *Journal of Economic Perspectives* 10, no. 3 (1996): 103--118.
+    * Katja Favretto,
+      ["Should Peacemakers Take Sides? Major Power Mediation, Coercion, and Bias,"](http://www.jstor.org/stable/27798500)
+      *American Political Science Review* 103, no. 2 (2009): 248--263.
     * Kyle C. Beardsley,
       ["Pain, Pressure, and Political Cover: Explaining Mediation Incidence,"](http://www.jstor.org/stable/20752196)
       *Journal of Peace Research* 47, no. 4 (2010): 395--406.
