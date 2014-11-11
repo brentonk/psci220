@@ -163,15 +163,13 @@ will be made available on the course's Blackboard page, which you can access
 via [OAK](http://oak.vanderbilt.edu).
 
 
-### August 20--22: Diplomacy and the International System
+### January 6--8: Diplomacy and the International System
 
 * Hedley Bull, "Diplomacy and International Order," chap. 7 in *The
   Anarchical Society* (Columbia University Press, 1977).
 
 
-### August 25--29: Diplomacy in International Relations Theory
-
-*No class Friday, August 29.*
+### January 13--15: Diplomacy in International Relations Theory
 
 * Hans Morgenthau, "Diplomacy" and "The Future of Diplomacy," chap. 31--32 in
   *Politics Among Nations*, 6th ed. (Alfred A. Knopf, 1985).
@@ -180,29 +178,17 @@ via [OAK](http://oak.vanderbilt.edu).
   Interdependence," chap. 2 in *Power and Interdependence*, 3rd
   ed. (Longman, 2000).
 
-* Christer Jonsson and Martin Hall, "The Study of Diplomacy," chap. 1 in
-  *Essence of Diplomacy* (Palgrave Macmillan, 2005).
-
 * *Recommended:*
-    * Robert Powell,
-      ["Bargaining Theory and International Conflict,"](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.5.092601.141138)
-      *Annual Review of Political Science* 5 (2002): 1--30.
+    * Christer Jonsson and Martin Hall, "The Study of Diplomacy," chap. 1 in
+      *Essence of Diplomacy* (Palgrave Macmillan, 2005).
 
 
-### September 1--5: Diplomacy through History
+### January 20--22: Crisis Bargaining
 
-* M.S. Anderson, *The Rise of Modern Diplomacy*, entire book.
-
-* *Recommended:*
-    * Garrett Mattingly, *Renaissance Diplomacy* (Cosimo Classics, 2009).
+* Fearon 1995
 
 
-### September 8--12: The Practice of Negotiations
-
-* G.R. Berridge, *Diplomacy: Theory and Practice*, chapters 2--6.
-
-
-### September 15--19: Deterrence
+### January 27--29: Deterrence
 
 * Thomas Schelling, *Arms and Influence*, chapters 1--3.
 
@@ -215,9 +201,7 @@ via [OAK](http://oak.vanderbilt.edu).
       *Journal of Conflict Resolution* 7, no. 2 (1963): 97--109.
 
 
-### September 22--26: Spiral Models versus Deterrence
-
-*First short paper to be assigned Wednesday, September 24.*
+### February 3--5: Spiral Models versus Deterrence
 
 * Robert Jervis, "Deterrence, the Spiral Model, and Intentions of the
   Adversary," chap. 3 in *Perception and Misperception in International
@@ -237,12 +221,12 @@ via [OAK](http://oak.vanderbilt.edu).
       *World Politics* 49, no. 3 (1997): 371--400.
 
 
-### September 29--October 3: Testing Rational Deterrence Theory
+### February 10--12: Case Study --- The Cuban Missile Crisis
 
-*First short paper due Wednesday, October 1.*
+* Essence of Decision
 
-<!-- Next time, maybe first do a week where we actually look at some of the -->
-<!-- case studies at issue in the Achen/Snidal article? -->
+
+### February 17--19: Testing Rational Deterrence Theory
 
 * Christopher H. Achen and Duncan Snidal,
   ["Rational Deterrence Theory and Comparative Case Studies,"](http://www.jstor.org/stable/2010405)
@@ -266,19 +250,12 @@ via [OAK](http://oak.vanderbilt.edu).
       *International Interactions* 28, no. 1 (2002): 5--29.
 
 
-### October 6: Midterm Exam
+### February 24: Midterm Exam
 
-
-### October 8--10: Constructing Alliances
-
-*No class Friday, October 10.*
+### February 26: Constructing Alliances
 
 * Stephen M. Walt, "Explaining Alliance Formation," chap. 2 in *The Origins of
   Alliances* (Cornell University Press, 1987).
-
-* James D. Morrow,
-  ["Alliances: Why Write Them Down?"](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.3.1.63)
-  *Annual Review of Political Science* 3 (2000): 63--83.
 
 * *Recommended:*
     * Mancur Olson Jr. and Richard Zeckhauser,
@@ -289,28 +266,37 @@ via [OAK](http://oak.vanderbilt.edu).
       *Journal of Conflict Resolution* 44, no. 2 (2000): 203--227.
 
 
-### October 13--15: Keeping Alliance Commitments
+<!-- Deficiency reports due March 4 -->
 
-*No class Friday, October 17 due to fall break.*
+
+### March 10--12: Keeping Alliance Commitments
+
+* James D. Morrow,
+  ["Alliances: Why Write Them Down?"](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.3.1.63)
+  *Annual Review of Political Science* 3 (2000): 63--83.
 
 * Brett Ashley Leeds, Andrew G. Long, and Sara McLaughlin Mitchell,
   ["Reevaluating Alliance Reliability: Specific Threats, Specific Promises,"](http://www.jstor.org/stable/174649)
   *Journal of Conflict Resolution* 44, no. 5 (2000): 686--699.
 
-* Kurt Taylor Gaubatz,
-  ["Democratic States and Commitment in International Relations,"](http://www.jstor.org/stable/2707000)
-  *International Organization* 50, no. 1 (1996): 109--139.
 
-* Erik Gartzke and Kristian Skrede Gleditsch,
-  ["Why Democracies May Actually Be Less Reliable Allies,"](http://www.jstor.org/stable/1519933)
-  *American Journal of Political Science* 48, no. 4 (2004): 775--795.
+### March 17--19: Moral Hazard in Alliances
+
+* Benson
 
 
-### October 20--24: Domestic Politics and Diplomacy
+### March 24--26: Domestic Politics and Diplomacy
 
 * Robert D. Putnam,
   ["Diplomacy and Domestic Politics: The Logic of Two-Level Games,"](http://www.jstor.org/stable/2706785)
   *International Organization* 42, no. 3 (1988): 427--460.
+
+* Brett Ashley Leeds,
+  ["Domestic Political Institutions, Credible Commitments, and International Cooperation,"](http://www.jstor.org/stable/2991814)
+  *American Journal of Political Science* 43, no. 4 (1999): 979--1002.
+
+
+### March 31--April 2: Audience Costs
 
 * James D. Fearon,
   ["Domestic Political Audiences and the Escalation of International Disputes,"](http://www.jstor.org/stable/2944796)
@@ -321,99 +307,33 @@ via [OAK](http://oak.vanderbilt.edu).
   *American Political Science Review* 105, no. 3 (2011): 437--456.
 
 * *Recommended:*
-    * Brett Ashley Leeds,
-      ["Domestic Political Institutions, Credible Commitments, and International Cooperation,"](http://www.jstor.org/stable/2991814)
-      *American Journal of Political Science* 43, no. 4 (1999): 979--1002.
     * Kenneth A. Schultz,
       ["Domestic Opposition and Signaling in International Crises,"](http://www.jstor.org/stable/2586306)
       *American Political Science Review* 92, no. 4 (1998): 829--844.
 
 
-### October 27--31: Third-Party Mediation
+### April 7--9: Domestic Politics and Alliance Commitments
 
-* Andrew Kydd,
-  ["Which Side Are You On? Bias, Credibility, and Mediation,"](http://www.jstor.org/stable/3186121)
-  *American Journal of Political Science* 47, no. 4 (2003): 597--611.
+* Kurt Taylor Gaubatz,
+  ["Democratic States and Commitment in International Relations,"](http://www.jstor.org/stable/2707000)
+  *International Organization* 50, no. 1 (1996): 109--139.
 
-* Burcu Savun,
-  ["Information, Bias, and Mediation Success,"](http://www.jstor.org/stable/29734223)
-  *International Studies Quarterly* 52, no. 1 (2008): 25--47.
+* Erik Gartzke and Kristian Skrede Gleditsch,
+  ["Why Democracies May Actually Be Less Reliable Allies,"](http://www.jstor.org/stable/1519933)
+  *American Journal of Political Science* 48, no. 4 (2004): 775--795.
 
-* *Recommended:*
-    * Joseph Farrell and Matthew Rabin,
-      ["Cheap Talk,"](http://www.jstor.org/stable/2138522)
-      *Journal of Economic Perspectives* 10, no. 3 (1996): 103--118.
-    * Katja Favretto,
-      ["Should Peacemakers Take Sides? Major Power Mediation, Coercion, and Bias,"](http://www.jstor.org/stable/27798500)
-      *American Political Science Review* 103, no. 2 (2009): 248--263.
-    * Kyle C. Beardsley,
-      ["Pain, Pressure, and Political Cover: Explaining Mediation Incidence,"](http://www.jstor.org/stable/20752196)
-      *Journal of Peace Research* 47, no. 4 (2010): 395--406.
-    * Shawn Ling Ramirez,
-      ["Diplomatic Flexibility in the Shadow of an Audience: The Double-Edged Sword of Private Mediation"](http://slramirez.github.io/lionsden/med20130630.pdf)
-      (working paper, Emory University, 2013).
+<!-- Replace Gartzke/Gleditsch with something else? -->
 
 
-### November 3--7: Peacekeeping
-
-*Final paper topic proposals due Wednesday, November 5.*
-
-* Virginia Page Fortna,
-  ["Scraps of Paper? Agreements and the Durability of Peace,"](http://www.jstor.org/stable/3594855)
-  *International Organization* 57, no. 2 (2003): 337--372.
-
-* Suzanne Werner and Amy Yuen,
-  ["Making and Keeping Peace,"](http://www.jstor.org/stable/3877905)
-  *International Organization* 59, no. 2 (2005): 261--292.
-
-* J. Michael Greig and Paul F. Diehl,
-  ["The Peacekeeping--Peacemaking Dilemma,"](http://www.jstor.org/stable/3693503)
-  *International Studies Quarterly* 49, no. 4 (2005): 621--645.
-
-
-### November 10--14: Diplomacy through International Organizations
-
-*Second short paper to be assigned Wednesday, November 12.*
-
-* Lisa Martin,
-  ["Interests, Power, and Multilateralism,"](http://www.jstor.org/stable/2706874)
-  *International Organization* 46, no. 4 (1992): 765--792.
-
-* Jennifer Mitzen,
-  ["Reading Habermas in Anarchy: Multilateral Diplomacy and Global Public Spheres,"](http://www.jstor.org/stable/30038948)
-  *American Political Science Review* 99, no. 3 (2005): 401--417.
-
-* Jon Pevehouse and Bruce Russett,
-  ["Democratic International Governmental Organizations Promote Peace,"](http://www.jstor.org/stable/3877853)
-  *International Organization* 60, no. 4 (2006): 969--1000.
-
-* *Recommended:*
-    * Alexander Thompson,
-      ["Coercion through IOs: The Security Council and the Logic of Information Transmission,"](http://www.jstor.org/stable/3877866)
-      *International Organization* 60, no. 1 (2006): 1--34.
-    * Kenneth W. Abbott and Duncan Snidal,
-      ["Why States Act through Formal International Organization"](http://www.jstor.org/stable/174551)
-      *Journal of Conflict Resolution* 42, no. 1 (1998): 3--32.
-
-
-### November 17--21: Negotiating with Non-State Actors
-
-*Second short paper due Wednesday, November 19.*
+### April 14--16: Negotiating with Non-State Actors [or: Domestic Politics Case Study?]
 
 * Peter C. Sederberg,
   ["Conciliation as Counter-Terrorist Strategy,"](http://www.jstor.org/stable/425666)
   *Journal of Peace Research* 32, no. 3 (1995): 295--312.
-
-* Barbara F. Walter,
-  ["The Critical Barrier to Civil War Settlement,"](http://www.jstor.org/stable/2703607)
-  *International Organization* 51, no. 3 (1997): 335--364.
 
 * Navin A. Bapat,
   ["State Bargaining with Transnational Terrorist Groups,"](http://www.jstor.org/stable/3693558)
   *International Studies Quarterly* 50, no. 1 (2006): 213--230.
 
 
-### December 1--3: Student Presentations
-
-*Final papers due at 5:00 p.m. on Thursday, December 11.*
-
+### Final Exam
