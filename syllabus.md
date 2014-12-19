@@ -105,9 +105,9 @@ In accordance with the goal of learning to think like political scientists, the 
 
 * Robert Jervis, ["Cooperation under the Security Dilemma,"](http://www.jstor.org/stable/2009958) *World Politics* 30, no. 2 (1978): 167--214.
 
-* Charles L. Glaser, ["The Security Dilemma Revisited,"](http://www.jstor.org/stable/25054031) *World Politics* 50, no. 1 (1997): 171--201.
-
 * *Recommended:*
+
+    * Charles L. Glaser, ["The Security Dilemma Revisited,"](http://www.jstor.org/stable/25054031) *World Politics* 50, no. 1 (1997): 171--201.
 
     * Andrew Kydd, ["Game Theory and the Spiral Model,"](http://www.jstor.org/stable/25054007) *World Politics* 49, no. 3 (1997): 371--400.
 
@@ -123,17 +123,11 @@ In accordance with the goal of learning to think like political scientists, the 
 
 *First short paper due Tuesday, February 17.*
 
-* Christopher H. Achen and Duncan Snidal, ["Rational Deterrence Theory and Comparative Case Studies,"](http://www.jstor.org/stable/2010405) *World Politics* 41, no. 2 (1989): 143--169.
-
-* Richard Ned Lebow and Janice Gross Stein, ["Rational Deterrence Theory: I Think, Therefore I Deter,"](http://www.jstor.org/stable/2010408) *World Politics* 41, no. 2 (1989): 208--224.
+* Paul Huth and Bruce Russett, ["What Makes Deterrence Work? Cases from 1900 to 1980,"](http://www.jstor.org/stable/2010184) *World Politics* 36, no. 4 (1984): 496--526.
 
 * Richard Ned Lebow and Janice Gross Stein, ["Deterrence: The Elusive Dependent Variable,"](http://www.jstor.org/stable/2010415) *World Politics* 42, no. 3 (1990): 336--369.
 
 * Paul Huth and Bruce Russett, ["Testing Deterrence Theory: Rigor Makes a Difference,"](http://www.jstor.org/stable/2010511) *World Politics* 42, no. 4 (1990): 466--501.
-
-* *Recommended:*
-
-    * James D. Fearon, ["Selection Effects and Deterrence,"](http://www.tandfonline.com/doi/abs/10.1080/03050620210390) *International Interactions* 28, no. 1 (2002): 5--29.
 
 
 ### February 24: Midterm Exam
@@ -222,7 +216,9 @@ In accordance with the goal of learning to think like political scientists, the 
 
 * Suzanne Werner and Amy Yuen, ["Making and Keeping Peace,"](http://www.jstor.org/stable/3877905) *International Organization* 59, no. 2 (2005): 261--292.
 
-* J\. Michael Greig and Paul F. Diehl, ["The Peacekeeping--Peacemaking Dilemma,"](http://www.jstor.org/stable/3693503) *International Studies Quarterly* 49, no. 4 (2005): 621--645.
+* *Recommended:*
+
+    * J\. Michael Greig and Paul F. Diehl, ["The Peacekeeping--Peacemaking Dilemma,"](http://www.jstor.org/stable/3693503) *International Studies Quarterly* 49, no. 4 (2005): 621--645.
 
 
 ### April 27: Final Exam
