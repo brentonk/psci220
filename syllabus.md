@@ -16,13 +16,15 @@ To analyze these questions about diplomacy, we will use the tools of contemporar
 
 # Grading
 
-Your grade in PSCI 220 consists of the following components:
+Your grade in PSCI 220 will be based on:
 
-* **Short Papers (30%).** You will write three short papers (4--6 pages each).[^page-lengths] You will select the topic of each paper from a set of prompts that will be handed out a week before the paper is due.  The due dates are listed in the schedule of readings.
+* **Short Papers (33%).** You will write three short papers (4--6 pages each).[^page-lengths] You will select the topic of each paper from a set of prompts that will be handed out a week before the paper is due.  The due dates are listed in the schedule of readings.
 
-* **Midterm Exam (30%).** An in-class midterm consisting of short essay questions will be held on February 24.  *If you cannot be present in class on February 24, please let me know as soon as possible so that we can make alternative arrangements.*
+* **Midterm Exam (33%).** An in-class midterm consisting of short essay questions will be held on February 24.  *If you cannot be present in class on February 24, please let me know as soon as possible so that we can make alternative arrangements.*
 
-* **Final Exam (40%).** The final exam will be held at the time designated by the university, April 27 at 9:00 a.m.
+* **Final Exam (33%).** The final exam will be held at the time designated by the university, April 27 at 9:00 a.m.
+
+* The last percentage point is free.
 
 Both exams will be open-book and open-notes, but electronic devices will not be allowed.  Accordingly, you may want to buy hard copies of the required books instead of e-books.
 
