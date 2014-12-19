@@ -56,7 +56,7 @@ The following books are required:
 
 The schedule of readings is tentative and is subject to change.  I will inform you at least a week in advance of any changes to the required readings.
 
-Links to all journal articles are available in the syllabus on the course website, <http://bkenkel.com/psci220/syllabus.html>.  Scans of book chapters will be made available on the course's Blackboard page, which you can access via [OAK](http://oak.vanderbilt.edu).
+Links to all journal articles are available in the syllabus on the course website, <http://bkenkel.com/psci220/syllabus.html>.  Scans of book chapters will be made available through [OAK](http://oak.vanderbilt.edu).
 
 ![Photo from [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Don%27t_Panic_Badge.jpg).](dont_panic_2.jpg)
 
