@@ -9,9 +9,11 @@ pdf: syllabus-psci-220.pdf
 
 Talk is cheap in international politics.  There is no world government or other central authority to keep states from lying, bluffing, and breaking promises to each other.  So what is the point of diplomacy?  Can talking accomplish anything that force cannot?  When, if ever, are international threats and promises believable?  What kinds of states or leaders are most likely to follow through on their commitments?  In short, how can a state make its words *credible*?
 
-To analyze these questions about diplomacy, we will use the tools of contemporary political science.  We will use theoretical models to develop coherent explanations of whether (and why) diplomatic statements are credible, and we will consult empirical evidence to evaluate these theories' predictions.[^theory]  The goal of the course is to learn to think through theoretical problems as a political scientist would---and to gain some useful knowledge about crisis diplomacy along the way.
+This course will not teach you the answers to these questions.  Even if they had definitive answers, there is no expert consensus on what those answers are.  What we will learn, instead, is how to think through crisis diplomacy in a scientific way.  We will take a two-pronged approach.  First, just to make our task intellectually manageable, we will build theoretical models of crisis diplomacy---deliberate oversimplifications of reality that allow us to focus on some important aspects of crises.  Second, to evaluate the conclusions we draw from these models, we will review them through the lens of empirical evidence.  No theory will ever fit the data perfectly, but some claims will find more support than others.
 
-[^theory]: Obligatory caveat from a dyed-in-the-wool theorist: Not all theories make predictions, and a good theory is worth working through even if its predictions are all wrong.
+Sadly, this course will not turn you into an expert diplomat or a master negotiator.  It will, however, give you a framework to critically evaluate the things that politicians, pundits, and scholars[^tip] say about foreign policy and international crises.
+
+[^tip]: You could add "your relatives" to this list, but it's definitely not diplomatic to spend the holidays subjecting your family's political views to a scientific analysis.
 
 
 # Grading
