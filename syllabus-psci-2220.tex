@@ -1,0 +1,58 @@
+\documentclass[12pt,svgnames]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{sectsty}
+\usepackage{float}
+\usepackage[labelsep=period,font=small,labelfont=bf]{caption}
+
+% Line skipping
+\usepackage{parskip}
+
+% No section numbers
+\setcounter{secnumdepth}{0}
+
+% Fonts
+\usepackage[charter]{mathdesign}
+\usepackage[scaled]{helvet}
+\usepackage[scaled=0.5]{beramono}
+\allsectionsfont{\sffamily}
+
+% Hyperref
+\usepackage{hyperref}
+
+% Hyperref
+\hypersetup{%
+  pdfborder = {0 0 0},
+  bookmarksdepth = section,
+  citecolor = DarkGreen,
+  linkcolor = DarkBlue,
+  pagecolor = DarkBlue,
+  urlcolor = DarkGreen,
+  pdfauthor = {Brenton Kenkel (Vanderbilt University)},
+  pdftitle = {PSCI 2220: Crisis Diplomacy},
+  colorlinks = true
+}%
+
+% Consistency with provided Pandoc template
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+{\Huge \textsf{\textbf{PSCI 2220: Crisis Diplomacy}}}
+
+\textsf{%
+  Vanderbilt University \hfill Professor Brenton Kenkel \\
+  Spring 2016 \hfill \href{mailto:brenton.kenkel@vanderbilt.edu}{brenton.kenkel@vanderbilt.edu} \\
+  TR 1:10--2:25 p.m. \hfill Office hours \textbf{TBD TBD TBD} \\
+  Stevenson 1 (Math) 206 \hfill Commons 324
+}
+
+\bigskip
+
+\input{syllabus-body}
+
+\end{document}

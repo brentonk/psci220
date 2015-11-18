@@ -2,40 +2,44 @@
 category: syllabus
 title: Syllabus
 layout: syllabus
-pdf: syllabus-psci-220.pdf
+pdf: syllabus-psci-2220.pdf
 ---
-
-# Description
 
 Talk is cheap in international politics.  There is no world government or other central authority to keep states from lying, bluffing, and breaking promises to each other.  So what is the point of diplomacy?  Can talking accomplish anything that force cannot?  When, if ever, are international threats and promises believable?  What kinds of states or leaders are most likely to follow through on their commitments?  In short, how can a state make its words *credible*?
 
 This course will not teach you the answers to these questions.  Even if they had definitive answers, there is no expert consensus on what those answers are.  What we will learn, instead, is how to think through crisis diplomacy in a scientific way.  We will take a two-pronged approach.  First, just to make our task intellectually manageable, we will build theoretical models of crisis diplomacy---deliberate oversimplifications of reality that allow us to focus on some important aspects of crises.  Second, to evaluate the conclusions we draw from these models, we will review them through the lens of empirical evidence.  No theory will ever fit the data perfectly, but some claims will find more support than others.
 
-Sadly, this course will not turn you into an expert diplomat or a master negotiator.  It will, however, give you a framework to critically evaluate the things that politicians, pundits, and scholars[^tip] say about foreign policy and international crises.
-
-[^tip]: You could add "your relatives" to this list, but it's definitely not diplomatic to spend the holidays subjecting your family's political views to a scientific analysis.
+Sadly, this course will not turn you into an expert diplomat or a master negotiator.  It will, however, give you a framework to critically evaluate the things that politicians, pundits, and scholars say about foreign policy and international crises.
 
 
 # Grading
 
-Your grade in PSCI 220 will be based on:
+Your grade in PSCI 2220 will be based on:
 
-* **Short Papers (33%).** You will write three short papers (4--6 pages each).[^page-lengths] You will select the topic of each paper from a set of prompts that will be handed out a week before the paper is due.  The due dates are listed in the schedule of readings.
+* **Critical Response Papers (20%).**  You will write two critical response papers, no more than four pages each,[^page-lengths] throughout the semester.  In each paper, you will choose a course reading of particular interest to you and make a critical argument about its central claims.  For more details, see the handout on critical response papers.
 
-* **Midterm Exam (33%).** An in-class midterm consisting of short essay questions will be held on February 24.  *If you cannot be present in class on February 24, please let me know as soon as possible so that we can make alternative arrangements.*
+* **Midterm Exam (20%).** We will have an in-class midterm consisting of short essay questions on February 25.  *If you cannot be in class on February 25, please let me know as soon as possible so we can make alternative arrangements.*
 
-* **Final Exam (33%).** The final exam will be held at the time designated by the university, April 27 at 9:00 a.m.
+* **Final Paper (50%).** The bulk of your grade is based on a research paper. The task of the final paper is to evaluate a hypothesis about an aspect of diplomacy in light of a historical or recent case.  You should be thinking about potential paper topics all semester long.  As we proceed through the schedule of readings, take time to consider which of the research questions we encounter are most interesting to you.
 
-* The last percentage point is free.
+    There are three parts to the final paper:
 
-Both exams will be open-book and open-notes, but electronic devices will not be allowed.  Accordingly, you may want to buy hard copies of the required books instead of e-books.
+    * *Proposal.* You will write a 1--2 page proposal summarizing (1) the research question you are going to address and (2) the historical or current-event evidence you will draw from.  The proposal itself is not graded, but I will not accept your final paper submission unless you have submitted a proposal and I have approved it.  Proposals are due in class on Tuesday, March 22.
+
+    * *Presentation.* In the last few class sessions, each student will deliver a brief (5--10 minute) presentation in class about his or her research design and preliminary findings.  One-fifth of the grade for your paper (and thus 10% of your course grade) is based on your presentation.
+
+    * *Paper.* The paper itself should be about 15 pages long, and cannot exceed 20 pages (not including references).  It is due at 5:00 p.m. on Thursday, April 28, which falls within the time that would ordinarily be reserved for the final exam.
+
+    For more details, see the handout on final papers.
+
+* **Class Participation (10%).**  This class is a seminar, and your participation is crucial for its success. I expect you not only to attend class, but also to have completed the readings and prepared to discuss them.  Your attendance, preparation, and engagement in class discussion will all be reflected in your participation grade.
 
 [^page-lengths]: Page lengths quoted assume a double-spaced document with 12-point text and 1-inch margins.
 
 
 # Academic Integrity
 
-As in all courses at Vanderbilt, your work in PSCI 220 is governed by the Honor Code.  I encourage you to discuss course material and assignments with your peers, but the written work you turn in must be solely your own.
+As in all courses at Vanderbilt, your work in PSCI 2220 is governed by the Honor Code.  I encourage you to discuss course material and assignments with your peers, but the written work you turn in must be solely your own.
 
 I have no tolerance for plagiarism.  If you turn in plagiarized work, you will receive a failing grade for the course and be reported to the Honor Council.  Plagiarism is not just verbatim copying and pasting---representing someone else's ideas as your own without citing the source is also a form of plagiarism.  Ignorance of what constitutes plagiarism is not an excuse or a defense.  For more information about what is and is not plagiarism, refer to [the Student Handbook section on the Honor System](http://www.vanderbilt.edu/student_handbook/the-honor-system/), particularly the section "The Honor Code Applied to Preparation of Papers."  Always remember: *when in doubt, cite.*
 
@@ -53,44 +57,52 @@ The following books are required:
 
 * Thomas Schelling, [*Arms and Influence*](http://amzn.com/0300002211) (Yale University Press, 1966).
 
+* David Patrikarakos, [*Nuclear Iran: The Birth of an Atomic State*](http://www.amazon.com/Nuclear-Iran-Birth-Atomic-State/dp/1780761252) (I.B. Tauris, 2012).
+
+The midterm will be open-book and open-notes, but electronic devices will not be allowed.  Accordingly, you may want to buy hard copies of the required books instead of e-books.
+
 [^allison-edition]: The first and second editions of *Essence of Decision* differ substantially, so I require that you use the second.
 
 
 # Schedule
 
+<!-- Key dates:
+January 11: First day
+January 18: No class (MLK)
+March 5-13: Spring break
+March 9: Deficiency reports due
+April 19-25: Dead week
+April 25: Last day
+May 7: Final grades due
+-->
+
 The schedule of readings is tentative and is subject to change.  I will inform you at least a week in advance of any changes to the required readings.
 
-Links to all journal articles are available in the syllabus on the course website, <http://bkenkel.com/psci220/syllabus.html>.  Scans of book chapters will be made available through [OAK](http://oak.vanderbilt.edu).
-
-![Photo from [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Don%27t_Panic_Badge.jpg).](dont_panic_2.jpg)
-
-In accordance with the goal of learning to think like political scientists, the readings are largely drawn from the political science literature of the past two decades.  Many of these papers, like most contemporary political science research, contain some math.  But don't panic!  You will not be tested on mathematical concepts, and our focus will always be on theories, hypotheses, research design, and evidence---not mathematical details.
+Links to all journal articles are available in the syllabus on the course website, <http://bkenkel.com/psci2220/syllabus.html>.  Scans of book chapters will be made available through [OAK](http://oak.vanderbilt.edu).
 
 
-### January 6--8: Diplomacy and the International System
+### January 12--14: Diplomacy and the International System
 
 * Hedley Bull, "Diplomacy and International Order," chap. 7 in *The Anarchical Society* (Columbia University Press, 1977).
 
 
-### January 13--15: Diplomacy in International Relations Theory
+### January 19--21: Two Views of Diplomacy
+
+* Course notes on "How to Read Social Science Research".
 
 * Hans Morgenthau, "Diplomacy" and "The Future of Diplomacy," chap. 31--32 in *Politics Among Nations*, 6th ed. (Alfred A. Knopf, 1985).
 
 * Robert Keohane and Joseph S. Nye Jr., "Realism and Complex Interdependence," chap. 2 in *Power and Interdependence*, 3rd ed. (Longman, 2000).
 
-* *Recommended:*
 
-    * Christer Jonsson and Martin Hall, "The Study of Diplomacy," chap. 1 in *Essence of Diplomacy* (Palgrave Macmillan, 2005).
+### January 26--28: International Crises
 
-
-### January 20--22: Crisis Bargaining
+* George H. Quester, ["Crises and the Unexpected,"](http://www.jstor.org/stable/204821) *Journal of Interdisciplinary History* 18, no. 4 (1988): 701--719.
 
 * James D. Fearon, ["Rationalist Explanations for War,"](http://www.jstor.org/stable/2706903) *International Organization* 49, no. 3 (1995): 379--414.
 
-* Start reading *Essence of Decision*.
 
-
-### January 27--29: Deterrence
+### February 2--4: Deterrence Theory
 
 * Thomas Schelling, *Arms and Influence*, chapters 1--3.
 
@@ -100,8 +112,12 @@ In accordance with the goal of learning to think like political scientists, the 
 
     * Bruce M. Russett, ["The Calculus of Deterrence,"](http://www.jstor.org/stable/172796) *Journal of Conflict Resolution* 7, no. 2 (1963): 97--109.
 
+    * Paul Huth and Bruce Russett, ["What Makes Deterrence Work? Cases from 1900 to 1980,"](http://www.jstor.org/stable/2010184) *World Politics* 36, no. 4 (1984): 496--526.
 
-### February 3--5: Spiral Models and the Security Dilemma
+    * Richard Ned Lebow and Janice Gross Stein, ["Deterrence: The Elusive Dependent Variable,"](http://www.jstor.org/stable/2010415) *World Politics* 42, no. 3 (1990): 336--369.
+
+
+### February 9--11: Spiral Models and the Security Dilemma
 
 * Robert Jervis, "Deterrence, the Spiral Model, and Intentions of the Adversary," chap. 3 in *Perception and Misperception in International Politics* (Princeton University Press, 1976).
 
@@ -114,60 +130,26 @@ In accordance with the goal of learning to think like political scientists, the 
     * Andrew Kydd, ["Game Theory and the Spiral Model,"](http://www.jstor.org/stable/25054007) *World Politics* 49, no. 3 (1997): 371--400.
 
 
-### February 10--12: Case Study --- The Cuban Missile Crisis
+### February 16--18: Case Study --- The Cuban Missile Crisis
 
-*First short paper to be assigned Tuesday, February 10.*
+*Your first critical response paper must be turned in by Tuesday, February 16.*
 
-* Finish reading *Essence of Decision*.
-
-
-### February 17--19: Testing Rational Deterrence Theory
-
-*First short paper due Tuesday, February 17.*
-
-* Paul Huth and Bruce Russett, ["What Makes Deterrence Work? Cases from 1900 to 1980,"](http://www.jstor.org/stable/2010184) *World Politics* 36, no. 4 (1984): 496--526.
-
-* Richard Ned Lebow and Janice Gross Stein, ["Deterrence: The Elusive Dependent Variable,"](http://www.jstor.org/stable/2010415) *World Politics* 42, no. 3 (1990): 336--369.
-
-* Paul Huth and Bruce Russett, ["Testing Deterrence Theory: Rigor Makes a Difference,"](http://www.jstor.org/stable/2010511) *World Politics* 42, no. 4 (1990): 466--501.
+* Graham Allison and Philip Zelikow, *Essence of Decision*, entire book.
 
 
-### February 24: Midterm Exam
+### February 23--25: Review and Midterm
+
+*Midterm exam in class on Thursday, February 25.*
 
 
-### February 26: Constructing Alliances
-
-* Stephen M. Walt, "Explaining Alliance Formation," chap. 2 in *The Origins of Alliances* (Cornell University Press, 1987).
-
-* *Recommended:*
-
-    * Mancur Olson Jr. and Richard Zeckhauser, ["An Economic Theory of Alliances,"](http://www.jstor.org/stable/1927082) *Review of Economics and Statistics* 48, no. 3 (1966): 266--279.
-
-    * Brian Lai and Dan Reiter, ["Democracy, Political Similarity, and International Alliances, 1816--1992,"](http://www.jstor.org/stable/174663) *Journal of Conflict Resolution* 44, no. 2 (2000): 203--227.
-
-
-<!-- Deficiency reports due March 4 -->
-
-
-### March 10--12: Keeping Alliance Commitments
-
-* James D. Morrow, ["Alliances: Why Write Them Down?"](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.3.1.63) *Annual Review of Political Science* 3 (2000): 63--83.
-
-* Brett Ashley Leeds, Andrew G. Long, and Sara McLaughlin Mitchell, ["Reevaluating Alliance Reliability: Specific Threats, Specific Promises,"](http://www.jstor.org/stable/174649) *Journal of Conflict Resolution* 44, no. 5 (2000): 686--699.
-
-
-### March 17--19: Domestic Politics and Diplomacy
-
-*Second short paper to be assigned Tuesday, March 17.*
+### March 1--3: Domestic Politics and Diplomacy
 
 * Robert D. Putnam, ["Diplomacy and Domestic Politics: The Logic of Two-Level Games,"](http://www.jstor.org/stable/2706785) *International Organization* 42, no. 3 (1988): 427--460.
 
 * Brett Ashley Leeds, ["Domestic Political Institutions, Credible Commitments, and International Cooperation,"](http://www.jstor.org/stable/2991814) *American Journal of Political Science* 43, no. 4 (1999): 979--1002.
 
 
-### March 24--26: Audience Costs
-
-*Second short paper due Tuesday, March 24.*
+### March 15--17: Domestic Politics, continued
 
 * James D. Fearon, ["Domestic Political Audiences and the Escalation of International Disputes,"](http://www.jstor.org/stable/2944796) *American Political Science Review* 88, no. 3 (1994): 577--592.
 
@@ -177,42 +159,12 @@ In accordance with the goal of learning to think like political scientists, the 
 
     * Kenneth A. Schultz, ["Domestic Opposition and Signaling in International Crises,"](http://www.jstor.org/stable/2586306) *American Political Science Review* 92, no. 4 (1998): 829--844.
 
-
-### March 31--April 2: Domestic Politics and Alliance Commitments
-
-* Kurt Taylor Gaubatz, ["Democratic States and Commitment in International Relations,"](http://www.jstor.org/stable/2707000) *International Organization* 50, no. 1 (1996): 109--139.
-
-* Brett Ashley Leeds, ["Alliance Reliability in Times of War: Explaining State Decisions to Violate Treaties,"](http://www.jstor.org/stable/3594847) *International Organization* 57, no. 4 (2003): 801--827.
-
-* *Recommended:*
-
-    * Erik Gartzke and Kristian Skrede Gleditsch, ["Why Democracies May Actually Be Less Reliable Allies,"](http://www.jstor.org/stable/1519933) *American Journal of Political Science* 48, no. 4 (2004): 775--795.
-
     * Brett Ashley Leeds, Michaela Mattes, and Jeremy S. Vogel, ["Interests, Institutions, and the Reliability of International Commitments,"](http://www.jstor.org/stable/25548129) *American Journal of Political Science* 53, no. 2 (2009): 461--476.
 
 
-### April 7--9: Making Peace
+### March 22--24: Making and Keeping Peace
 
-*Third short paper to be assigned Tuesday, April 7.*
-
-* Joseph Farrell and Matthew Rabin, ["Cheap Talk,"](http://www.jstor.org/stable/2138522) *Journal of Economic Perspectives* 10, no. 3 (1996): 103--118.
-
-* Andrew Kydd, ["Which Side Are You On? Bias, Credibility, and Mediation,"](http://www.jstor.org/stable/3186121) *American Journal of Political Science* 47, no. 4 (2003): 597--611.
-
-* Burcu Savun, ["Information, Bias, and Mediation Success,"](http://www.jstor.org/stable/29734223) *International Studies Quarterly* 52, no. 1 (2008): 25--47.
-
-* *Recommended:*
-
-    * Katja Favretto, ["Should Peacemakers Take Sides? Major Power Mediation, Coercion, and Bias,"](http://www.jstor.org/stable/27798500) *American Political Science Review* 103, no. 2 (2009): 248--263.
-
-    * Kyle C. Beardsley, ["Pain, Pressure, and Political Cover: Explaining Mediation Incidence,"](http://www.jstor.org/stable/20752196) *Journal of Peace Research* 47, no. 4 (2010): 395--406.
-
-    * Shawn Ling Ramirez, ["Diplomatic Flexibility in the Shadow of an Audience: The Double-Edged Sword of Private Mediation"](http://slramirez.github.io/lionsden/med20130630.pdf) (working paper, Emory University, 2013).
-
-
-### April 14--16: Keeping Peace
-
-*Third short paper due Tuesday, April 14.*
+*Final paper proposals are due in class on Tuesday, March 22.*
 
 * Virginia Page Fortna, ["Scraps of Paper? Agreements and the Durability of Peace,"](http://www.jstor.org/stable/3594855) *International Organization* 57, no. 2 (2003): 337--372.
 
@@ -222,7 +174,50 @@ In accordance with the goal of learning to think like political scientists, the 
 
     * J\. Michael Greig and Paul F. Diehl, ["The Peacekeeping--Peacemaking Dilemma,"](http://www.jstor.org/stable/3693503) *International Studies Quarterly* 49, no. 4 (2005): 621--645.
 
+    * Andrew Kydd, ["Which Side Are You On? Bias, Credibility, and Mediation,"](http://www.jstor.org/stable/3186121) *American Journal of Political Science* 47, no. 4 (2003): 597--611.
 
-### April 27: Final Exam
+    * Burcu Savun, ["Information, Bias, and Mediation Success,"](http://www.jstor.org/stable/29734223) *International Studies Quarterly* 52, no. 1 (2008): 25--47.
 
-The final exam will be held on Monday, April 27, from 9:00 a.m. to 11:00 a.m.
+    * Katja Favretto, ["Should Peacemakers Take Sides? Major Power Mediation, Coercion, and Bias,"](http://www.jstor.org/stable/27798500) *American Political Science Review* 103, no. 2 (2009): 248--263.
+
+
+### March 29--31: Nuclear Diplomacy
+
+* Robert Powell, ["Nuclear Deterrence Theory, Nuclear Proliferation, and National Missile Defense,"](http://www.jstor.org/stable/4137605) *International Security* 27, no. 4 (2003): 86--118.
+
+* Nuno P. Monteiro and Alexandre Debs, ["The Strategic Logic of Nuclear Proliferation,"](http://dx.doi.org/10.1162/ISEC_a_00177) *International Security* 39, no. 2 (2014): 7--51.
+
+* *Recommended:*
+
+    * Charles L. Glaser and Steve Fetter, ["National Missile Defense and the Future of U.S. Nuclear Weapons Policy,"](http://www.jstor.org/stable/3092078) *International Security* 26, no. 1 (2001): 40--92.
+
+    * Dong-Joon Jo and Erik Gartzke, ["Determinants of Nuclear Weapons Proliferation,"](http://www.jstor.org/stable/27638542) *Journal of Conflict Resolution* 51, no. 1 (2007): 167--194.
+
+    * Kyle Beardsley and Victor Asal, ["Winning with the Bomb,"](http://www.jstor.org/stable/20684585) *Journal of Conflict Resolution* 53, no. 2 (2009): 278--301.
+
+    * Matthew Kroenig, ["Nuclear Superiority and the Balance of Resolve: Explaining Nuclear Crisis Outcomes,"](http://dx.doi.org/10.1017/S0020818312000367) *International Organization* 67, no. 1 (2013): 141--171.
+
+
+### April 5--12: Case Study --- The Iran Nuclear Deal
+<!-- Three days -->
+
+*Your second critical response paper must be turned in by Tuesday, April 5.*
+
+* David Patrikarakos, *Nuclear Iran*, entire book.  Skim Part I, read Part II carefully.
+
+* Peter Baker, ["G.O.P. Senators’ Letter to Iran About Nuclear Deal Angers White House,"](http://nyti.ms/1960M7W) *New York Times* (March 9, 2015).  Also read the full text of the letter.
+
+* Belfer Center for Science and International Affairs, [*The Iran Nuclear Deal: A Definitive Guide*](http://belfercenter.ksg.harvard.edu/files/IranDealDefinitiveGuide.pdf) (Harvard University, 2015).
+
+* [Full text of the deal itself](http://iranmatters.belfercenter.org/files/iranproject/files/jcpoa.pdf.pdf).
+
+* Shai Feldman and Ariel E. Levite, ["Seven Realities That Made an Iran Deal Almost Inevitable,"](http://www.nationalinterest.org/feature/seven-realities-made-iran-deal-almost-inevitable-13387) *The National Interest* (July 21, 2015).
+
+* Alan Dershowitz, ["The Case Against the Iran Deal,"](http://www.newsweek.com/dershowitz-case-against-iran-deal-360911) *Newsweek* (August 8, 2015).
+
+* Graham Allison, ["Nine Reasons to Support the Iran Deal,"](http://www.theatlantic.com/international/archive/2015/08/iran-nuclear-deal-reasons-support/400466/) *The Atlantic* (August 4, 2015).
+
+### April 14--21: Final Paper Presentations
+<!-- Three days -->
+
+*Final papers are due at 5:00 p.m. on Thursday, April 28.*
