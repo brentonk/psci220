@@ -7,9 +7,7 @@ pdf: syllabus-psci-2220.pdf
 
 Talk is cheap in international politics.  There is no world government or other central authority to keep states from lying, bluffing, and breaking promises to each other.  So what is the point of diplomacy?  Can talking accomplish anything that force cannot?  When, if ever, are international threats and promises believable?  What kinds of states or leaders are most likely to follow through on their commitments?  In short, how can a state make its words *credible*?
 
-This course will not teach you the answers to these questions.  Even if they had definitive answers, there is no expert consensus on what those answers are.  What we will learn, instead, is how to think through crisis diplomacy in a scientific way.  We will take a two-pronged approach.  First, just to make our task intellectually manageable, we will build theoretical models of crisis diplomacy---deliberate oversimplifications of reality that allow us to focus on some important aspects of crises.  Second, to evaluate the conclusions we draw from these models, we will review them through the lens of empirical evidence.  No theory will ever fit the data perfectly, but some claims will find more support than others.
-
-Sadly, this course will not turn you into an expert diplomat or a master negotiator.  It will, however, give you a framework to critically evaluate the things that politicians, pundits, and scholars say about foreign policy and international crises.
+This course will not teach you the answers to these questions.  Even if they had definitive answers, there is no expert consensus on what those answers are.  What we will learn, instead, is how to think through crisis diplomacy in a scientific way.  We will take a two-pronged approach.  First, to make our task intellectually manageable, we will build theoretical models of crisis diplomacy---deliberate oversimplifications of reality that allow us to focus on the important aspects of crises.  Second, we will use empirical evidence to evaluate the conclusions we draw from these models.  No theory will ever fit the data perfectly, but some claims will find more support than others.
 
 
 # Grading
