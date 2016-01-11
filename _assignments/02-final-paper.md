@@ -65,7 +65,7 @@ The presentation is a 5 minute talk about the essential components of your paper
 
 3. What is the body of historical or contemporary evidence you have chosen to focus on, and why is it relevant to your central question?
 
-The presentation counts for 20% of your final paper grade (hence 10% of your course grade).  You will be graded on the clarity of the presentation and your facility at answering questions from the class.
+The presentation counts for 25% of your final paper grade (hence 10% of your course grade).  You will be graded on the clarity of the presentation and your facility at answering questions from the class.
 
 We will determine the order of presentations the week before Thanksgiving break.  If you decide to use slides, you must email the file to me by 5:00 p.m. the day before your presentation.  It is usually safest to convert PowerPoint or Keynote slides to PDP format, since sometimes raw slide files show up differently on different computers.
 
@@ -75,7 +75,7 @@ The paper is a 15--20 page research paper.  Twenty pages is a hard upper limit. 
 
 You must cite every source that your paper draws upon.  These include sources of ideas (e.g., course readings from which your hypothesis is taken) and sources of facts (e.g., a historical account that your case study uses).  There is no downside to citing your sources.  On the other hand, failure to cite sources is plagiarism---and thus an Honor Code violation---and will result in a failing grade.  You may use any citation style you like (APA, Chicago, MLA, etc.), as long as you pick one and stick to it.
 
-The paper itself counts for 80% of your final paper grade (hence 40% of your course grade).  I will ask a number of questions in determining your grade.  These include:
+The paper itself counts for 75% of your final paper grade (hence 30% of your course grade).  I will ask a number of questions in determining your grade.  These include:
 
   * Is the hypothesis relevant to the study of crisis diplomacy?  Does the paper demonstrate a good understanding of the hypothesis and its relevance?
   * Is the case study relevant to the hypothesis you have chosen?  Does the paper make a convincing case for its relevance?

@@ -14,17 +14,17 @@ This course will not teach you the answers to these questions.  Even if they had
 
 Your grade in PSCI 2220 will be based on:
 
-* **Critical Response Papers (20%).**  You will write two critical response papers, no more than four pages each,[^page-lengths] throughout the semester.  In each paper, you will choose a course reading of particular interest to you and make a critical argument about its central claims.  For more details, see the handout on critical response papers.
+* **Critical Response Papers (25%).**  You will write two critical response papers, no more than five pages each,[^page-lengths] throughout the semester.  In each paper, you will choose a course reading of particular interest to you and make a critical argument about its central claims.  For more details, see the handout on critical response papers.
 
-* **Midterm Exam (20%).** We will have an in-class midterm consisting of short essay questions on February 25.  *If you cannot be in class on February 25, please let me know as soon as possible so we can make alternative arrangements.*
+* **Midterm Exam (25%).** We will have an in-class midterm consisting of short essay questions on February 25.  *If you cannot be in class on February 25, please let me know as soon as possible so we can make alternative arrangements.*
 
-* **Final Paper (50%).** The bulk of your grade is based on a research paper. The task of the final paper is to evaluate a hypothesis about an aspect of diplomacy in light of a historical or recent case.  You should be thinking about potential paper topics all semester long.  As we proceed through the schedule of readings, take time to consider which of the research questions we encounter are most interesting to you.
+* **Final Paper (40%).** The bulk of your grade is based on a research paper. The task of the final paper is to evaluate a hypothesis about an aspect of diplomacy in light of a historical or recent case.  You should be thinking about potential paper topics all semester long.  As we proceed through the schedule of readings, take time to consider which of the research questions we encounter are most interesting to you.
 
     There are three parts to the final paper:
 
     * *Proposal.* You will write a 1--2 page proposal summarizing (1) the research question you are going to address and (2) the historical or current-event evidence you will draw from.  The proposal itself is not graded, but I will not accept your final paper submission unless you have submitted a proposal and I have approved it.  Proposals are due in class on Tuesday, March 22.
 
-    * *Presentation.* In the last few class sessions, each student will deliver a brief (5--10 minute) presentation in class about his or her research design and preliminary findings.  One-fifth of the grade for your paper (and thus 10% of your course grade) is based on your presentation.
+    * *Presentation.* In the last few class sessions, each student will deliver a brief (5--10 minute) presentation in class about his or her research design and preliminary findings.  One-fourth of the grade for your paper (and thus 10% of your course grade) is based on your presentation.
 
     * *Paper.* The paper itself should be about 15 pages long, and cannot exceed 20 pages (not including references).  It is due at 5:00 p.m. on Thursday, April 28, which falls within the time that would ordinarily be reserved for the final exam.
 
@@ -76,7 +76,7 @@ May 7: Final grades due
 
 The schedule of readings is tentative and is subject to change.  I will inform you at least a week in advance of any changes to the required readings.
 
-Links to all journal articles are available in the syllabus on the course website, <http://bkenkel.com/psci2220/syllabus.html>.  Scans of book chapters will be made available through [OAK](http://oak.vanderbilt.edu).
+Links to all journal articles are available in the syllabus on the course website, <http://bkenkel.com/psci2220/syllabus.html>.  Scans of book chapters will be made available through [Blackboard](http://blackboard.vanderbilt.edu).
 
 
 ### January 12--14: Diplomacy and the International System
