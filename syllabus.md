@@ -86,14 +86,14 @@ Links to all journal articles are available in the syllabus on the course websit
 
 ### January 19--21: Two Views of Diplomacy
 
-* Course notes on "How to Read Social Science Research".
-
 * Hans Morgenthau, "Diplomacy" and "The Future of Diplomacy," chap. 31--32 in *Politics Among Nations*, 6th ed. (Alfred A. Knopf, 1985).
 
 * Robert Keohane and Joseph S. Nye Jr., "Realism and Complex Interdependence," chap. 2 in *Power and Interdependence*, 3rd ed. (Longman, 2000).
 
 
 ### January 26--28: International Crises
+
+* Course notes on "How to Read Social Science Research".
 
 * George H. Quester, ["Crises and the Unexpected,"](http://www.jstor.org/stable/204821) *Journal of Interdisciplinary History* 18, no. 4 (1988): 701--719.
 
