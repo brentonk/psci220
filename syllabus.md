@@ -149,6 +149,8 @@ Links to all journal articles are available in the syllabus on the course websit
 
 ### March 15--17: Domestic Politics, continued
 
+*No class March 17.*
+
 * James D. Fearon, ["Domestic Political Audiences and the Escalation of International Disputes,"](http://www.jstor.org/stable/2944796) *American Political Science Review* 88, no. 3 (1994): 577--592.
 
 * Jack Snyder and Erica D. Borghard, ["The Cost of Empty Threats: A Penny, Not a Pound,"](http://dx.doi.org/10.1017/S000305541100027X) *American Political Science Review* 105, no. 3 (2011): 437--456.
