@@ -67,7 +67,7 @@ The presentation is a 5 minute talk about the essential components of your paper
 
 The presentation counts for 25% of your final paper grade (hence 10% of your course grade).  You will be graded on the clarity of the presentation and your facility at answering questions from the class.
 
-We will determine the order of presentations the week before Thanksgiving break.  If you decide to use slides, you must email the file to me by 5:00 p.m. the day before your presentation.  It is usually safest to convert PowerPoint or Keynote slides to PDF format, since sometimes raw slide files show up differently on different computers.
+We will determine the order of presentations the week after spring break.  If you decide to use slides, you must email the file to me by 5:00 p.m. the day before your presentation.  It is usually safest to convert PowerPoint or Keynote slides to PDF format, since sometimes raw slide files show up differently on different computers.
 
 ## Paper
 
