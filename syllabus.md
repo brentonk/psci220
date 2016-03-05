@@ -201,7 +201,9 @@ Links to all journal articles are available in the syllabus on the course websit
 ### April 5--12: Case Study --- The Iran Nuclear Deal
 <!-- Three days -->
 
-*Your second critical response paper must be turned in by Tuesday, April 5.*
+*Your optional bonus critical response paper must be turned in by Tuesday, April 5.*
+
+*Your second critical response paper must be turned in by Tuesday, April 12.*
 
 * David Patrikarakos, *Nuclear Iran*, entire book.  Skim Part I, read Part II carefully.
 

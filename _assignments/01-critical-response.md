@@ -8,7 +8,7 @@ pdf: 01-critical-response.pdf
 You will turn in two critical response papers over the course of the semester.  Each paper will be no more than five pages long.[^page-lengths]  You will turn in one paper in each of these windows:
 
   1. January 14 to February 16
-  2. March 1 to April 5
+  2. March 1 to April 12
 
 Each paper will consist of a critical assessment of one of the course readings (required or recommended).  Your paper must be turned in within a week of the reading it responds to.  For example, if your first response paper addresses a reading from the week of January 26--28, the latest it can be turned in is Thursday, February 4.
 
